@@ -49,7 +49,7 @@ Setnewpassword.javaÓÃÓÚ±£´æÓÃ»§ÉèÖÃµÄĞÂÃÜÂë¡£delete_date.javaÓÃÔÚeditÒ³Ãæ£¬µ±ÓÃ»
   </table>
 
 <p><span lang="EN-US" xml:lang="EN-US">?</span></p>
-<p><span lang="EN-US" xml:lang="EN-US">dates</span>±í½á¹¹ÈçÏÂ</p></rb>
+<p><span lang="EN-US" xml:lang="EN-US">dates</span>±í½á¹¹ÈçÏÂ</p></br>
 
   <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
@@ -104,6 +104,7 @@ Setnewpassword.javaÓÃÓÚ±£´æÓÃ»§ÉèÖÃµÄĞÂÃÜÂë¡£delete_date.javaÓÃÔÚeditÒ³Ãæ£¬µ±ÓÃ»
     </tbody>
   </table>
   </br>
+  
   #ÅäÖÃËµÃ÷
   ---
   ½¨ºÃÊı¾İ¿â£¬Á¬½ÓºÃ£¬NetBeanµ¼ÈëÏîÄ¿£¬È»ºóÔËĞĞÊÔÊÔ¡£</br>
